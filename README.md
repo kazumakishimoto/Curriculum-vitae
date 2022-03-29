@@ -1,76 +1,42 @@
-# 職務経歴書
-
-## 基本情報
-
+# **職務経歴書**
+## **基本情報**
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|岸本一眞(きしもとかずま)|
+|Wantedly|[岸本一眞](https://www.wantedly.com/id/kazumakishimoto)|
+|Twitter|[@kazuma_dev](https://twitter.com/kazuma_dev)|
+|Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
+|GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
+|個人開発|[**grfl**](https://grfl.herokuapp.com/)|
 
-## スキル
-### 言語
-- Ruby
+## **スキル**
+### **言語**
 - PHP
-- Java
-- などなど
+- JavaScript
+- HTML / CSS / Sass / MDBootstrap
 
-### フレームワーク
-
-- Ruby on Rails
+### **フレームワーク**
 - Laravel
-- Spring Boot
-- などなど
+- Vue.js
+- jQuery
 
-### その他
+### **その他**
+- AWS(EC2,ALB,S3,RDS,Route53,VPC,IAM,CloudWatch)
+- Heroku
+- Docker / docker-compose
+- CircleCI
+- nginx
+- MySQL
+- Git	/ GitHub
+- PHPMyAdmin
+- VScode
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
 
-## 言語
+## **職務経歴**
+- 【会社名】
+- 【勤務期間】
+- 【雇用形態】
 
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+### **業務内容**
 
-## 強み
-
-## やったことはないが興味があるもの
-
-## 職務経歴
-
-### yyyy/mm - 現在 : 会社名
-
-職務: Webアプリケーションエンジニア（例）
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
-
-職務: サーバーサイドエンジニア
-
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
-
-## 課外活動
-
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+## **自己PR**
