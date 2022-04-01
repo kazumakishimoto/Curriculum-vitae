@@ -13,27 +13,24 @@
 
 ## **スキル**
 ### **言語**
-- PHP
+- PHP 7.4.1
 - JavaScript
-- SQL
 
 ### **フレームワーク**
-- Laravel
-- Vue.js
-- jQuery
+- Laravel 6.20.43
+- Vue.js 2.6.14
+- jQuery 3.4.1
 
 ### **その他**
 - AWS(EC2,ALB,S3,RDS,Route53,VPC,IAM,CloudWatch)
-- Heroku
-- Docker / docker-compose
-- CircleCI
-- MySQL / PostgreSQL
-- PHPMyAdmin
-- Nginx / Apache
-- Linux
+- Docker 20.10.11 / docker-compose 2.2.1
+- CircleCI 2.1
+- PHPUnit	8.0
+- MySQL 5.7.36 (PHPMyAdmin) / PostgreSQL
+- Nginx 1.18.0 / Apache
 - Git	/ GitHub
-- VScode
-- Notion
+- VScode / Notion
+- MacBook Air	M1,2020(macOS	Monterey 12.3)
 <div style="page-break-before:always"></div>
 
 ## **職務経歴**
