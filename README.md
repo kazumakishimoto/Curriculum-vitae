@@ -1,10 +1,12 @@
 # **職務経歴書**
+
 ## **基本情報**
 |key|value|
 |---|-----|
 |名前|岸本一眞(きしもとかずま)|
 |生年月日|1993/01/14|
-|性別|男|
+|居住地|大阪市阿倍野区(最寄駅:天王寺駅)|
+|趣味|筋トレ/サウナ/ガジェット/スパイスカレー|
 |Wantedly|[岸本一眞](https://www.wantedly.com/id/kazumakishimoto)|
 |Twitter|[@kazuma_dev](https://twitter.com/kazuma_dev)|
 |Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
@@ -12,6 +14,7 @@
 |個人開発|[**grfl**](https://grfl.herokuapp.com/)|
 
 ## **スキル**
+
 ### **言語**
 - PHP 7.4.1
 - JavaScript
@@ -51,18 +54,13 @@
 - 普通自動車免許第一種
 - TOEIC515点
 
-## **趣味**
-- 筋トレ
-- 銭湯巡り
-- スパイスカレー作り
-<div style="page-break-before:always"></div>
-
 ## **自己PR**
+
 ### **継続的学習意欲**
-- 2022/09〜より独学開始、ポートフォリオ作成期間はGitHubのcontributionsへ継続的に草を生やし続けています。
+- 2022/10月より独学(ポートフォリオ作成期間は継続的にGitHubの草を生やしています)
 
 ### **書類管理力**
-- 前職で『Office / Adobe』を使った経験は、エンジニアのドキュメント管理に活かしたく思います。現在は『Google / Notion / Trello』などのサービスを利用しています。
+- 『Google / Notion / Trello』などのサービスを利用して、タスクやドキュメント管理をしています(前職では『Office / Adobe』を利用)
 
 ### **対人折衝力**
-- 営業時代に培った対人折衝力を活かしたく思います。
+- 営業時代に培った対人折衝力に自信があります。
