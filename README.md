@@ -1,63 +1,41 @@
 # **職務経歴書**
-
 ## **基本情報**
 |key|value|
 |---|-----|
-|名前|岸本一眞(きしもとかずま)|
-|生年月日|1993/01/14|
-|居住地|大阪市阿倍野区(最寄駅:天王寺駅)|
-|趣味|筋トレ/サウナ/ガジェット/スパイスカレー|
-|Wantedly|[岸本一眞](https://www.wantedly.com/id/kazumakishimoto)|
+|Name|岸本一眞(きしもとかずま)|
+|Wantedly|[@kazumakishimoto](https://www.wantedly.com/id/kazumakishimoto)|
 |Twitter|[@kazuma_dev](https://twitter.com/kazuma_dev)|
 |Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
 |GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
-|個人開発|[**grfl**](https://grfl.herokuapp.com/)|
+|PF|[**grfl**](https://grfl.herokuapp.com/)|
 
 ## **スキル**
-
-### **言語**
-- PHP 7.4.1
-- JavaScript
-
-### **フレームワーク**
-- Laravel 6.20.43
-- Vue.js 2.6.14
-- jQuery 3.4.1
-
-### **その他**
-- AWS(EC2,ALB,S3,RDS,Route53,VPC,IAM,CloudWatch)
-- Docker 20.10.11 / docker-compose 2.2.1
-- CircleCI 2.1
-- PHPUnit	8.0
-- MySQL 5.7.36 (PHPMyAdmin) / PostgreSQL
-- Nginx 1.18.0 / Apache
-- Git	/ GitHub
-- VScode / Notion
-- MacBook Air	M1,2020(macOS	Monterey 12.3)
-<div style="page-break-before:always"></div>
+- BE：PHP / Laravel / PHPUnit
+- FE：HTML / CSS / Sass / Bootstrap / jQuery / Vue.js
+- DB：MySQL / PostgreSQL / PHPMyAdmin
+- Infra：Nginx / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
+- CI/CD：CircleCI
+- 開発環境：Docker / docker-compose / Git(Git-flow) / GitHub / VScode / MacBook Air M1
+- パッケージ：Composer / npm / Homebrew
+- ツール：SendGrid / draw.io / Notion / Trello / Slack / Zoom / Google Meet / Discord
 
 ## **職務経歴**
-|会社名|期間|所属|業務内容|担当顧客|
+|会社名|所属|期間|
 |---|-----|-----|-----|-----|
-|株式会社ネクスティエレクトロニクス|2017/04 - 2018/07|営業職|帳票作成/納期調整/物流管理/工程変更|大手車載メーカー|
-|株式会社イーストブロー|2019/04 - 2019/07|営業職|営業マニュアル/帳票/研修/業務効率化ツールの企画制作|大手金融|
-|有限会社メルヴェイユ|2019/09 - 2022/09|営業職|通信回線の対個人営業| - |
+|株式会社ネクスティエレクトロニクス|営業職|2017/04 - 2018/07|
+|株式会社イーストブロー|営業職|2019/04 - 2019/07|
+|有限会社メルヴェイユ|営業職|2019/09 - 2022/09|
 
 ## **学歴**
-|学校名|学部学科|期間|
+|学校名|学部|期間|
 |---|-----|-----|
 |桃山学院高校|標準科|2008/04 - 2011/03|
-|清恵会医療専門学院|理学療法士|2011/04 - 2012/03|
 |同志社大学|商学部商学科|2013/04 - 2017/03|
-
-## **資格**
-- 普通自動車免許第一種
-- TOEIC515点
+<div style="page-break-before:always"></div>
 
 ## **自己PR**
-
 ### **継続的学習意欲**
-- 2022/10月より独学(ポートフォリオ作成期間は継続的にGitHubの草を生やしています)
+- 独学開始(21/10)→ポートフォリオ作成(22/01)→毎日学習継続中
 
 ### **書類管理力**
 - 『Google / Notion / Trello』などのサービスを利用して、タスクやドキュメント管理をしています(前職では『Office / Adobe』を利用)
