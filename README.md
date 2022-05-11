@@ -13,11 +13,11 @@
 - BE：PHP / Laravel / PHPUnit
 - FE：HTML / CSS / Sass / Bootstrap / jQuery / Vue.js
 - DB：MySQL / PostgreSQL / PHPMyAdmin
-- Infra：Nginx / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
+- Infra：Nginx / Apache / SendGrid / Heroku / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
 - CI/CD：CircleCI
 - 開発環境：Docker / docker-compose / Git(Git-flow) / GitHub / VScode / MacBook Air M1
 - パッケージ：Composer / npm / Homebrew
-- ツール：SendGrid / draw.io / Notion / Trello / Slack / Zoom / Google Meet / Discord
+- ツール：Notion / Trello / Slack / Zoom / Google Meet / Discord / draw.io
 
 ## **職務経歴**
 |会社名|所属|期間|
