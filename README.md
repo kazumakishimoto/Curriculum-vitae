@@ -10,13 +10,13 @@
 |PF|[**grfl**](https://grfl.work)|
 
 ## **スキル**
-- BE：PHP / Laravel / PHPUnit
-- FE：HTML / CSS / JavaScript / Sass / Bootstrap / jQuery / Vue.js
-- DB：MySQL / PostgreSQL / PHPMyAdmin
-- 開発環境：Docker / docker-compose / Git(Git-flow) / GitHub / VScode / MacOS
-- 本番環境：Nginx / SendGrid / Heroku / CircleCI / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
-- パッケージ：Composer / npm / Homebrew
-- ツール：Notion / Trello / Slack / Gather / Zoom / Google Meet / Discord / draw.io
+- 【BE】PHP / Laravel / PHPUnit
+- 【FE】HTML / CSS / JavaScript / Sass / Bootstrap / jQuery / Vue.js
+- 【DB】MySQL / PostgreSQL / PHPMyAdmin
+- 【開発環境】Docker / docker-compose / Git(Git-flow) / GitHub / VScode / MacOS
+- 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
+- 【パッケージ】Composer / npm / Homebrew
+- 【ツール】Notion / Trello / Slack / Gather / Zoom / Google Meet / Discord / draw.io
 
 ## **略歴**
 |会社名|所属|期間|
@@ -34,16 +34,16 @@
 
 ## **職務経歴**
 ### **株式会社ネクスティエレクトロニクス**
-- 担当領域：大手自動車メーカー
-- 業務内容：見積作成/納期調整/価格交渉/物流管理/技術質問
+- 【担当領域】大手自動車メーカー
+- 【業務内容】見積作成/納期調整/価格交渉/物流管理/技術質問
 
 ### **株式会社イーストブロー**
-- 担当領域：大手金融機関
-- 業務内容：顧客社内の営業商材/業務ツールの企画制作
+- 【担当領域】大手金融機関
+- 【業務内容】顧客社内の営業商材/業務ツールの企画制作
 
 ### **株式会社メルヴェイユ**
-- 担当領域：個人
-- 業務内容：通信回線の訪問販売
+- 【担当領域】個人
+- 【業務内容】通信回線の訪問営業
 
 ## **自己PR**
 ### **成長意欲**
