@@ -13,7 +13,7 @@
 - 【BE】PHP / Laravel / PHPUnit
 - 【FE】HTML / CSS / JavaScript / Sass / Bootstrap / jQuery / Vue.js
 - 【DB】MySQL / PostgreSQL / PHPMyAdmin
-- 【開発環境】Docker / docker-compose / Git(Git-flow) / GitHub / VScode / MacOS
+- 【開発環境】Docker / docker-compose / Git(Git-flow) / GitHub / VScode / iTerm2 / MacOS
 - 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
 - 【パッケージ】Composer / npm / Homebrew
 - 【ツール】Notion / Trello / Slack / Gather / Zoom / Google Meet / Discord / draw.io
