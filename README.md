@@ -7,7 +7,7 @@
 |Twitter|[@kazuma_dev](https://twitter.com/kazuma_dev)|
 |Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
 |GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
-|PF|[**grfl**](https://grfl.work)|
+|個人開発|[**grfl.work**](https://grfl.work)|
 
 ## **スキル**
 - 【BE】PHP / Laravel / PHPUnit
@@ -60,3 +60,7 @@
 - 【インフラ】インフラ構築・保守・運用の担当
 - 【キャリア】PjM / PdMなどのポジション
 - 【その他】コードレビュー/勉強会開催/後輩教育ができるようになりたい
+
+## **面談詳細**
+- 【希望日時】平日09:00～19:30
+- 【面談方法】オフライン対面/Zoom/Meet/Teams/Slack/Discord他
