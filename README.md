@@ -3,11 +3,12 @@
 |key|value|
 |---|-----|
 |Name|岸本一眞(きしもとかずま)|
-|Wantedly|[@kazumakishimoto](https://www.wantedly.com/id/kazumakishimoto)|
-|Twitter|[@kazuma_dev](https://twitter.com/kazuma_dev)|
-|Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
+|ポートフォリオ|[**grfl.work**](https://grfl.work)|
 |GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
-|個人開発|[**grfl.work**](https://grfl.work)|
+|Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
+|Twitter|[@kazuma_dev](https://twitter.com/kazuma_dev)|
+|Wantedly|[@kazumakishimoto](https://www.wantedly.com/id/kazumakishimoto)|
+
 
 ## **スキル**
 - 【BE】PHP / Laravel / PHPUnit
@@ -16,7 +17,7 @@
 - 【開発環境】Docker / docker-compose / Git(Git-flow) / GitHub / VScode / iTerm2 / MacOS
 - 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
 - 【パッケージ】Composer / npm / Homebrew
-- 【ツール】Notion / Trello / Slack / Gather / Zoom / Google Meet / Discord / draw.io
+- 【その他】Notion / Trello / Slack / Gather / Zoom / Google Meet / Discord / draw.io
 
 ## **略歴**
 |会社名|所属|期間|
@@ -30,6 +31,7 @@
 |---|-----|-----|
 |桃山学院高校|標準科|2008/04 - 2011/03|
 |同志社大学|商学部商学科|2013/04 - 2017/03|
+
 <div style="page-break-before:always"></div>
 
 ## **職務経歴**
@@ -49,15 +51,13 @@
 - 【業務内容】通信回線の訪問営業
 
 ## **自己PR**
-- 【課題解決力】技術課題ヒアリング・解決策の計画実行による案件受注経験
-- 【自走力】GitHub / Qiitaへの継続的なContribution・関西のエンジニアコミュニティの勉強会に積極的参加
-- 【技術力】Docker / AWS / CircleCIなど最新技術へのキャッチアップ
-- 【コミュニケーション】営業職で培った対人折衝力や報連相スキル
-- 【ドキュメンテーション】Notion / Google Sheetsで技術資産化(基本設計/不明単語/リンク集/エラー集)
+- 【課題解決力】営業職で培った対人折衝力や報連相スキル(技術課題の調査 / 解決策の提案)
+- 【自走力】独学ポートフォリオ作成(GitHub / Qiitaに継続的アウトプット)
+- 【キャッチアップ力】Docker / AWS / CircleCIなどインフラ領域の習得(関西のエンジニアコミュニティの勉強会にも積極参加)
 
 ## **転職理由**
-- きっかけは、私の母親や友人がコロナ禍による経営破綻に陥ったことです。
-- この経験から、スタートアップや中小企業支援ができるサービスを作りたいと考えました。
+- きっかけは、私の家族や友人がコロナ禍による経営破綻に陥ったことです。
+- この経験から、中小企業やスタートアップ支援ができるサービスを作りたいと考えました。
 - 自身のスキルアップが人助けに直結する点に魅力に感じたため、エンジニア職を志しました。
 
 ## **この先やってみたいこと**
@@ -68,5 +68,5 @@
 - 【その他】勉強会 / 業務外の技術へのキャッチアップ
 
 ## **面談詳細**
-- 【希望日時】平日09:00～19:30(終了)
-- 【面談方法】オフライン対面/Zoom/Meet/Teams/Slack/Discord他
+- 【希望日時】平日10:00～19:30(終了)
+- 【面談方法】オフライン対面/Zoom/Meet/Teams他
