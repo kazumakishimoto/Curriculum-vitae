@@ -2,7 +2,9 @@
 ## **基本情報**
 |key|value|
 |---|-----|
-|Name|岸本一眞(きしもとかずま)|
+|名前|岸本一眞(きしもとかずま)|
+|住所|大阪市阿倍野区|
+|趣味|サウナ / 筋トレ / アニメ / スパイスカレー / 愛犬とドライブ|
 |ポートフォリオ|[**grfl.work**](https://grfl.work)|
 |GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
 |Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
@@ -17,7 +19,7 @@
 - 【開発環境】Docker / docker-compose / Git(Git-flow) / GitHub / VScode / iTerm2 / MacOS
 - 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
 - 【パッケージ】Composer / npm / Homebrew
-- 【その他】Notion / Trello / Slack / Gather / Zoom / Google Meet / Discord / draw.io
+- 【その他】Notion / Trello / Slack / Gather / Zoom / Meet / Teams / Discord / draw.io
 
 ## **略歴**
 |会社名|所属|期間|
@@ -51,21 +53,22 @@
 - 【業務内容】通信回線の訪問営業
 
 ## **自己PR**
-- 【課題解決力】営業職で培った対人折衝力や報連相スキル(技術課題の調査 / 解決策の提案)
-- 【自走力】独学ポートフォリオ作成(GitHub / Qiitaに継続的アウトプット)
-- 【キャッチアップ力】Docker / AWS / CircleCIなどインフラ領域の習得(関西のエンジニアコミュニティの勉強会にも積極参加)
+- 【課題解決力】営業職で培った対人折衝力・報連相スキル(技術課題の提案営業・チームプレー経験)
+- 【自走力】独学ポートフォリオ作成(GitHub / Qiitaに半年以上アウトプット継続)
+- 【キャッチアップ力】関西の勉強会参加・インフラ領域の習得(Docker / AWS / CircleCI)
 
 ## **転職理由**
-- きっかけは、私の家族や友人がコロナ禍による経営破綻に陥ったことです。
-- この経験から、中小企業やスタートアップ支援ができるサービスを作りたいと考えました。
+- 「WEBサービスの力で、中小企業やスタートアップ企業を支援し続けたい」と考えたためです。
+- きっかけは、私の家族や友人がコロナ打撃による経営破綻に陥ったことです。
+- この経験から、営業職だった私はサービスを売るだけでなく、自身の手で創り上げたいと考えました。
 - 自身のスキルアップが人助けに直結する点に魅力に感じたため、エンジニア職を志しました。
 
 ## **この先やってみたいこと**
-- 【SE/PG】保守運用/機能改良/新規開発/テスト/FE領域(TypeScript/React/Next.js/Vue.js/Nuxt.jsなど)
+- 【PG/SE】保守運用・機能改良・新規開発・テスト・FE領域(TypeScript / React / Next.js / Vue.js / Nuxt.js)
 - 【インフラ】クラウドの設計構築から運用保守までトータルサポート
-- 【キャリア】PjM / PdMなどの上流工程 / マネジメントのポジション
+- 【キャリア】PjM / PdMなどの上流工程・マネジメントのポジション
 - 【資格】基本情報技術者試験 / SAA / CLFなど
-- 【その他】勉強会 / 業務外の技術へのキャッチアップ
+- 【その他】勉強会主催・業務外の技術へのキャッチアップ
 
 ## **面談詳細**
 - 【希望日時】平日10:00～19:30(終了)
