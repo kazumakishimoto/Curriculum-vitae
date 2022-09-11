@@ -4,7 +4,7 @@
 |---|-----|
 |名前|岸本一眞(きしもとかずま)|
 |住所|大阪市阿倍野区|
-|趣味|サウナ / 筋トレ / アニメ / スパイスカレー / 愛犬とドライブ|
+|趣味|サウナ / 筋トレ / アニメ / スパイスカレー / トイプードル|
 |ポートフォリオ|[**grfl.work**](https://grfl.work)|
 |GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
 |Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
@@ -13,13 +13,14 @@
 
 
 ## **スキル**
-- 【BE】PHP / Laravel / PHPUnit
-- 【FE】HTML / CSS / JavaScript / Sass / Bootstrap / jQuery / Vue.js
-- 【DB】MySQL / PostgreSQL / PHPMyAdmin
-- 【開発環境】Docker / docker-compose / Git(Git-flow) / GitHub / VScode / iTerm2 / MacOS
-- 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CloudFormation,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
+- 【OS】Mac / Linux
+- 【開発言語】PHP / HTML / CSS / JavaScript
+- 【フレームワーク】Laravel / PHPUnit / Vue.js / jQuery / Bootstrap
+- 【データベース】MySQL / PostgreSQL / PHPMyAdmin
+- 【開発環境】Docker / docker-compose / Git-flow / GitHub / VScode
+- 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CFn,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
 - 【パッケージ】Composer / npm / Homebrew
-- 【その他】Notion / Trello / Slack / Gather / Zoom / Meet / Teams / Discord / draw.io
+- 【ツール】Notion / Trello / Slack / draw.io
 
 ## **略歴**
 |会社名|所属|期間|
@@ -53,23 +54,21 @@
 - 【業務内容】通信回線の訪問営業
 
 ## **自己PR**
-- 【課題解決力】営業職で培った対人折衝力・報連相スキル(技術課題の提案営業・チームプレー経験)
-- 【自走力】独学ポートフォリオ作成(GitHub / Qiitaに半年以上アウトプット継続)
-- 【キャッチアップ力】関西の勉強会参加・インフラ領域の習得(Docker / AWS / CircleCI)
+- 【課題解決力】営業職での提案営業・チームプレー経験)
+- 【アウトプット力】Notionドキュメンテーション・Qiita技術記事25件以上
+- 【キャッチアップ力】関西の勉強会参加・独学でインフラ領域の習得(Docker / AWS / CircleCI)
 
 ## **転職理由**
-- 「WEBサービスの力で、中小企業やスタートアップ企業を支援し続けたい」と考えたためです。
-- きっかけは、私の家族や友人がコロナ打撃による経営破綻に陥ったことです。
-- この経験から、営業職だった私はサービスを売るだけでなく、自身の手で創り上げたいと考えました。
-- 自身のスキルアップが人助けに直結する点に魅力に感じたため、エンジニア職を志しました。
+- 「ITの力で企業のDX化を支援したい」と考えたためです。
+- きっかけは、コロナ禍による家族や友人の経営破綻です。
+- この経験から、WEBサービスや業務システムを作りたいと考えました。
+- 自身のスキルアップが人助けに直接貢献する点に魅力に感じたため、エンジニア職を志しました。
 
 ## **この先やってみたいこと**
-- 【PG/SE】保守運用・機能改良・新規開発・テスト・FE領域(TypeScript / React / Next.js / Vue.js / Nuxt.js)
-- 【インフラ】クラウドの設計構築から運用保守までトータルサポート
-- 【キャリア】PjM / PdMなどの上流工程・マネジメントのポジション
-- 【資格】基本情報技術者試験 / SAA / CLFなど
-- 【その他】勉強会主催・業務外の技術へのキャッチアップ
+- 【自己学習】アルゴリズム / アーキテクチャ / パフォーマンス / コンピュータサイエンス
+- 【キャリア】フロント / インフラ / 上流工程 / マネジメント
+- 【資格取得】ITパスポート / 基本情報技術者試験 / CLF / SAA
 
 ## **面談詳細**
 - 【希望日時】平日10:00～19:30(終了)
-- 【面談方法】オフライン対面/Zoom/Meet/Teams他
+- 【面談方法】Zoom/Meet/Teams/オフライン対面
