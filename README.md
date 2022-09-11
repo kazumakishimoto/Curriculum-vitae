@@ -14,8 +14,8 @@
 
 ## **スキル**
 - 【OS】Mac / Linux
-- 【開発言語】PHP / HTML / CSS / JavaScript
-- 【フレームワーク】Laravel / PHPUnit / Vue.js / jQuery / Bootstrap
+- 【開発言語】PHP / SQL / HTML / CSS / JavaScript
+- 【フレームワーク】Laravel / PHPUnit / Vue.js / jQuery / Bootstrap / Sass
 - 【データベース】MySQL / PostgreSQL / PHPMyAdmin
 - 【開発環境】Docker / docker-compose / Git-flow / GitHub / VScode
 - 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CFn,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
