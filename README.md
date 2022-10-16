@@ -8,19 +8,19 @@
 |ポートフォリオ|[**grfl.work**](https://grfl.work)|
 |GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
 |Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
+|Zenn|[@kazumadev](https://zenn.dev/kazumadev)|
 |Twitter|[@kazuma_dev](https://twitter.com/kazuma_dev)|
 |Wantedly|[@kazumakishimoto](https://www.wantedly.com/id/kazumakishimoto)|
 
 
 ## **スキル**
 - 【OS】Mac / Linux
-- 【開発言語】PHP / SQL / HTML / CSS / JavaScript
-- 【フレームワーク】Laravel / PHPUnit / Vue.js / jQuery / Bootstrap / Sass
+- 【開発言語】PHP / SQL / HTML&CSS / JavaScript
+- 【フレームワーク】Laravel / PHPUnit / Vue.js / jQuery / Bootstrap
 - 【データベース】MySQL / PostgreSQL / PHPMyAdmin
 - 【開発環境】Docker / docker-compose / Git-flow / GitHub / VScode
 - 【本番環境】Nginx / SendGrid / Heroku / CircleCI / AWS(CFn,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
-- 【パッケージ】Composer / npm / Homebrew
-- 【ツール】Notion / Trello / Slack / draw.io
+- 【その他】Notion / Trello / Slack / draw.io / Composer / npm / Homebrew
 
 ## **略歴**
 |会社名|所属|期間|
