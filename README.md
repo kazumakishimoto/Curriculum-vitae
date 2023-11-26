@@ -1,24 +1,17 @@
 # **職務経歴書**
-## **基本情報**
-|key|value|
-|---|-----|
-|名前|岸本一眞(きしもとかずま)|
-|住所|大阪市阿倍野区|
-|趣味|サウナ / 筋トレ / アニメ|
-|ポートフォリオ|[**grfl.work**](https://grfl.work)|
-|GitHub|[@kazumakishimoto](https://github.com/kazumakishimoto)|
-|Qiita|[@kazumakishimoto](https://qiita.com/kazumakishimoto)|
-|Wantedly|[@kazumakishimoto](https://www.wantedly.com/id/kazumakishimoto)|
+# **基本情報**
+| key | value |
+| --- | --- |
+| 氏名 | 岸本 一眞(Kishimoto Kazuma) |
+| 生年月日 | 1993/01/14 |
+| 居住地 | 大阪市 |
+| 最終学歴 | 同志社大学 商学部 商学科 |
+| 趣味 | 筋トレ、音楽、銭湯、アニメ |
 
-
-## **スキル**
-- [言語]PHP / SQL / JavaScript
-- [OS]Mac / Linux
-- [FW]Laravel / PHPUnit / Vue.js / jQuery / Bootstrap
-- [DB]MySQL / PostgreSQL / PHPMyAdmin
-- [開発環境]Docker / Git-flow / GitHub / VScode
-- [本番環境]CircleCI / AWS(CFn,VPC,EC2,RDS,S3,Route53,ALB,ACM,CodeDeploy,SNS,Chatbot,IAM,CloudWatch)
-- [その他]Notion / Slack / Composer / npm / Homebrew
+## **概要**
+- 営業職から独学でLaravelを学習して、エンジニア職へとキャリアチェンジ
+- テスター期間を経て、Java, Spring Boot, JavaScriptを用いた業務システムの開発を約9ヶ月経験
+- 現職では、介護施設向け非接触見守りシステム、ゲームポータルサイトなどの開発に携わっています。
 
 ## **略歴**
 |会社名|所属|期間|
@@ -26,6 +19,7 @@
 |株式会社ネクスティエレクトロニクス|営業職|2017/04 - 2018/07|
 |株式会社イーストブロー|営業職|2019/04 - 2019/07|
 |株式会社メルヴェイユ|営業職|2019/09 - 2021/09|
+|株式会社ウィメックス|エンジニア職|2022/10 - 現在|
 
 ## **学歴**
 |学校名|学部|期間|
@@ -33,24 +27,100 @@
 |桃山学院高校|標準科|2008/04 - 2011/03|
 |同志社大学|商学部商学科|2013/04 - 2017/03|
 
-<div style="page-break-before:always"></div>
+## **スキル**
+### **言語**
+- Java(17.x)
+- JavaScript
+- PHP
 
-## **職務経歴**
-### **株式会社ネクスティエレクトロニクス**
-- [事業内容]半導体や電子デバイス製品を自動車・自動車部品メーカーに提案・販売
-- [担当顧客]大手自動車メーカー
-- [業務内容]見積作成/納期調整/価格交渉/物流管理/技術質問
+### **フレームワーク**
+- Spring Boot(3.x)
+    - Spring Security
+    - Doma2
+    - Thymeleaf
+    - socket.io
+    - Mosquitto
+- Laravel
+- jQuery
 
-### **株式会社イーストブロー**
-- [事業内容]大企業内チーム・中小・ベンチャー企業向け実行支援型総合コンサルティング業
-- [担当顧客]大手金融機関
-- [業務内容]顧客社内の営業商材/業務ツールの企画制作
+### **データベース**
+- H2 Database
+- MySQL
 
-### **株式会社メルヴェイユ**
-- [事業内容]通信インフラに関する様々な課題に対して企画・提案営業
-- [担当顧客]個人
-- [業務内容]通信回線の訪問営業
+### **その他**
+- MacOS
+- GitLab
+- IntelliJ
+- Backlog
+- Slack
+- Notion
+- ChatGPT
+- GitHub Copilot
 
-## **面談詳細**
-- [希望日時]平日10:00～19:30(終了)
-- [面談方法]Zoom/Meet/オフライン対面
+# **業務経歴**
+## **介護施設向け非接触見守りシステム構築**
+### **期間**
+2023年4月~2023年9月（6ヶ月間）
+
+### **概要**
+- 受託開発の新規案件です。
+- 介護施設向け非接触見守りシステム構築。センサ端末から送信される、バイタル(呼吸・心拍)や動作状態を数値を受け取り、 Webページへのリアルタイムの反映、異常の検知・通知等を行う。
+- 主にバックエンド開発を担当。フロントエンド開発やテストも担当。
+
+### **役割**
+- PG（PM1名、PL1名、TL1名、PG2名）
+
+### **担当業務**
+- フロントエンド
+    - JavaScript
+        - jQuery
+- バックエンド
+    - Java(17.x)
+        - Spring Boot(3.x)
+        - Spring Security
+        - Doma2
+        - Thymeleaf
+        - socket.io
+        - Mosquitto
+    - データベース
+        - H2 Database
+- 開発環境
+    - IntelliJ
+    - Tomcat
+
+### **使用ツール**
+- GitLab
+- Backlog
+- IntelliJ
+
+## **ゲームポータルサイト**
+### **期間**
+2023年10月~現在
+
+### 概要
+- 受託開発の新規案件です。
+- ゲームポータルサイトのシステム構築。
+- 主にバックエンド開発を担当。フロントエンド開発やテストも担当。
+
+### **役割**
+- PG（PM1名、PL1名、TL1名、PG3名）
+
+### **担当業務**
+- フロントエンド
+    - JavaScript
+        - jQuery
+- バックエンド
+    - Java(17.x)
+        - Spring Boot(3.x)
+        - Spring Security
+        - Doma2
+        - Thymeleaf
+    - データベース
+        - MySQL
+- 開発環境
+    - IntelliJ
+
+### **使用ツール**
+- GitLab
+- Backlog
+- IntelliJ
