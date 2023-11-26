@@ -126,4 +126,5 @@
 ### **使用ツール**
 - GitLab
 - Backlog
+- Notion
 - IntelliJ
