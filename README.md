@@ -20,9 +20,9 @@
 | --- | --- |
 | 言語 | Java / JavaScript / PHP / SQL |
 | FW | Spring Boot / Spring Security / Gradle / Doma2 / MapStruct / Lombok / Thymeleaf / <br> Laravel / jQuery |
-| DB | H2 Database / MySQL |
+| DB | H2 Database / MySQL / BigQuery |
 | OS | Mac / Linux / Windows |
-| 設計手法 | DDD / CQRS / Spring MVC |
+| 開発手法 | DDD / CQRS / Spring MVC / TDD |
 | 開発環境 | GitLab / GitHub / Docker / IntelliJ / VScode / Backlog / Postman / AWS / CircleCI |
 | その他 | Slack / Notion / ChatGPT / GitHub Copilot |
 
@@ -97,7 +97,7 @@
 - 管理者向けの管理マスターシステムの作成
 
 ### **備考**
-- DDDやCQRSなどのアーキテクチャ用いて開発しています
+- DDDやCQRSなどのアーキテクチャ用いて開発しています。また、実装前に設計書を元にテスト仕様書を作成するTDDを採用しています。
 
 ### **役割**
 - PG（PM1名、PL1名、TL1名、PG3名）
@@ -114,6 +114,13 @@
         - Thymeleaf
     - データベース
         - MySQL
+        - BigQuery
+    - 外部API
+        - Google API
+- アーキテクチャ
+    - DDD
+    - CQRS
+    - TDD
 - 開発環境
     - IntelliJ
 
@@ -128,7 +135,12 @@
 検索機能 / ソート機能 / 並び替え機能 / ページャー/ 非同期通信(Promise, async, await) / セッション / クッキー / BASIC認証 / 権限制御 / バッチ処理 / 排他制御 / 例外処理 / ログ処理 / SQLインジェクション / XSS / CSRF / 入出力I/O / 暗号化
 
 ## **自己PR**
-- 認識齟齬が生じないようにコミュニケーションを心がけています。
+### **1.コミュニケーションへの意識**
 - 状況整理：「実現したいこと・詰まっている箇所・エラー文・原因に対する仮説と検証結果」に整理して質問
 - 進捗報告：「完了・未完了・詰まっている箇所」について、デイリーでチームメンバーに共有
 - 課題管理：Notionを用いてチーム内でタスクを可視化することで、メンバー同士が状況把握できるよう管理
+
+### **2.スキルと会社貢献への意識**
+- 学習：書籍『良いコード悪いコード』を参考に、保守性と可読性の高いコーディングを意識
+- 育成：定期的に質疑応答の時間を設けたり、ペアプロなどを実践している
+- その他：社内イベントの企画や、社内資料の作成なども担当
